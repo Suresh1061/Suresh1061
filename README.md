@@ -64,7 +64,7 @@
 # ⚙ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/Suresh1061">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Swadeshit27&layout=compact&langs_count=8&theme=algolia"/>  <br>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Suresh1061&layout=compact&langs_count=8&theme=algolia"/>  <br>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Suresh1061&theme=react" />
   <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suresh1061&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  <br>
