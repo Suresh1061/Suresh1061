@@ -63,11 +63,11 @@
 
 # ⚙ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/Swadeshit27">
+<a href="https://github.com/Suresh1061">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Swadeshit27&layout=compact&langs_count=8&theme=algolia"/>  <br>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Swadeshit27&theme=react" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Suresh1061&theme=react" />
   <br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Swadeshit27&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  <br>
- <img align="center"  height="180em" src="https://github-profile-trophy.vercel.app/?username=Swadeshit27&theme=onedark&column=8&margin-w=5&margin-h=5"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suresh1061&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  <br>
+ <img align="center"  height="180em" src="https://github-profile-trophy.vercel.app/?username=Suresh1061&theme=onedark&column=8&margin-w=5&margin-h=5"/>
 </a>
 </p>
