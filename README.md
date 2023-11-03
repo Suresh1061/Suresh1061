@@ -20,10 +20,10 @@
 # 🌐 Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <p align="left">
-<a href="https://twitter.com/SureshPal685" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="suresh1061" height="40" width="40" /></a>&nbsp
-<a href="https://www.linkedin.com/in/suresh-pal-80020922a/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="suresh-pal-204036228" height="40" width="40" /></a>&nbsp
-<a href="https://www.instagram.com/suresh8158/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="_suresh_pal" height="40" width="40" /></a>&nbsp
-<a href="https://www.facebook.com/profile.php?id=100074086172427&mibextid=2JQ9oc" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="Suresh Pal" height="40" width="40" /></a>&nbsp
+<a href="https://twitter.com/SureshPal685" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="suresh1061" height="40" width="40" /></a>&nbsp
+<a href="https://www.linkedin.com/in/suresh-pal-80020922a/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="suresh-pal-204036228" height="40" width="40" /></a>&nbsp
+<a href="https://www.instagram.com/sureshpal8158/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="_suresh_pal" height="40" width="40" /></a>&nbsp
+<a href="https://www.facebook.com/profile.php?id=100074086172427&mibextid=2JQ9oc" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="Suresh Pal" height="40" width="40" /></a>&nbsp
 <!-- <a href="https://discord.gg/Swadesh Pal#1603" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Swadesh Pal#1603" height="40" width="40" /></a> -->
 </p>
 
