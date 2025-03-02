@@ -75,7 +75,7 @@ Looking for SDE Internship || Full Stack App & Web Developer || MERN Stack || Ne
 <a href="https://www.codechef.com/users/pal8158" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="pal8158" height="40" width="40" /></a>&nbsp
 <a href="https://leetcode.com/Suresh1061/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Swadeshpal27" height="40" width="40" /></a>&nbsp
 <!-- <a href="https://auth.geeksforgeeks.org/user/swadesh27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="swadesh27" height="40" width="40" /></a>&nbsp -->
-<a href="https://www.codingninjas.com/studio/profile/Suresh61" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgc1xfS5LK7FayIDccjkLFNYUrvJJMAj4DVZzEzybMqVcjz8M3LRCLG-61f-c08icMLd0&usqp=CAU" alt="swadesh" height="40" width="50" /></a>
+<a href="https://www.codingninjas.com/studio/profile/Suresh61" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgc1xfS5LK7FayIDccjkLFNYUrvJJMAj4DVZzEzybMqVcjz8M3LRCLG-61f-c08icMLd0&usqp=CAU" alt="Suresh61" height="40" width="50" /></a>
 </p>
 
 # ⚙ &nbsp;GitHub Analytics
